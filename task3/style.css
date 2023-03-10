@@ -1,0 +1,26 @@
+#trafficLight1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: black;
+  }
+  
+  #trafficLight2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: black;
+  }
+  #trafficLight3 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  body{
+
+    background-color: rgb(108, 93, 93);
+    padding-left: 700px;
+    padding-top: 150px;
+  }
